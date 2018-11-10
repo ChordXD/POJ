@@ -13,6 +13,7 @@
 |1552|Doubles|枚举|0|c语言入门题|
 |1581|A Contesting Decision|枚举|0|简单题|
 |2196|Specialized Four-Digit Numbers|枚举|0|简单题|
+|2242|The Circumference of the Circle|简单计算几何|0.5|s = sqrt(p/*(p-a)/*(p-b)/*(p-c)) = a /* b /* sin(∠ab) /2 , c/sin(∠ab) = d , 然后就可以求出d从而算周长|
 |2379|Sum of Consecutive Prime Numbers|枚举|0|c语言简单题|
 |2828|Buy Tickets|线段树|2|很简单的线段树：单点更新，区间求和|
 |3094|Quicksum|简单题|0|按照要求写就完了|
